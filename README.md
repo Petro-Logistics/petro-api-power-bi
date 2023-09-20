@@ -8,13 +8,13 @@ This module is a Power BI API client (with an example) for retrieving data with 
 
 ## Running the example:
 1. Install [Power BI Desktop](https://www.microsoft.com/store/productid/9NTXR16HNW1T?ocid=pdpshare)
-2. Download and open the file [test_example.pbix](examples/test_example.pbix)
+2. Download and open the file [test_example.pbix](examples/test_example.pbix?raw=1)
 3. Refresh data result of query `PLTestQuery`
 4. You can see an example of result data in a table
 
 ## Using your credentials and Parameters
 1. Install [Power BI Desktop](https://www.microsoft.com/store/productid/9NTXR16HNW1T?ocid=pdpshare)
-2. Download and open the file [test_example.pbix](examples/test_example.pbix)
+2. Download and open the file [test_example.pbix](examples/test_example.pbix?raw=1)
 3. Right click on `PLTestQuery` query and select `Edit query`
 4. You can see a list of parameters, here you can put your credential and parameters:
     - **api_url_endpoint:** Selector field to select one of the API endpoint (movementsdata, movdata, ...)
@@ -29,3 +29,4 @@ This module is a Power BI API client (with an example) for retrieving data with 
 
 ### Short Tuto Video
 ![](docs/assets/test_example_tutorial.mp4)
+[Download video here](docs/assets/test_example_tutorial.mp4?raw=1)
